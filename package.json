@@ -1,0 +1,35 @@
+{
+  "name": "products-api",
+  "version": "1.0.0",
+  "description": "This project was made as a requirement for the La Salle Computer Society (LSCS) AVP applications for the backend engineer role.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmdbro/products-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xmdbro/products-api/issues"
+  },
+  "homepage": "https://github.com/xmdbro/products-api#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "joi": "^18.0.1",
+    "mysql2": "^3.15.0",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/supertest": "^6.0.3",
+    "supertest": "^7.1.4",
+    "vitest": "^3.2.4"
+  }
+}
