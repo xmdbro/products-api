@@ -9,7 +9,7 @@ This project was made as a requirement for the La Salle Computer Society (LSCS) 
 # Setup
 1. Clone the Repository
    ```
-   https://github.com/xmdbro/products-api
+   git clone https://github.com/xmdbro/products-api
    cd products-api
    ``` 
 2. Install dependencies using `npm install`
